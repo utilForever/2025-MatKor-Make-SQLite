@@ -8,7 +8,11 @@ TBD
 
 ## References
 
-TBA
+- [C++ Reference](https://en.cppreference.com/w/)
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [SQLite Documentation](https://www.sqlite.org/docs.html)
+- [SQLite Source Repository](https://sqlite.org/src/tree?ci=trunk)
+- [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
 
 ## How To Contribute
 
