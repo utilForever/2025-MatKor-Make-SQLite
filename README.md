@@ -4,7 +4,8 @@
 
 ## Contents
 
-TBD
+- Week 0 (3/27)
+  - Introduction
 
 ## References
 
