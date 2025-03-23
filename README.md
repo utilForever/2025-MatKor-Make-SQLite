@@ -4,7 +4,7 @@
 
 ## Contents
 
-- Week 0 (3/27)
+- Week 0 (3/27) [[Lecture]](./1%20-%20Lecture/250327%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%200.pdf)
   - Introduction
 - Week 1 (3/27)
   - C++ Key Features Summary, Part 1
