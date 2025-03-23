@@ -6,6 +6,14 @@
 
 - Week 0 (3/27)
   - Introduction
+- Week 1 (3/27)
+  - C++ Key Features Summary, Part 1
+    - C++11
+    - C++14
+    - C++17
+  - Assignment #1
+    - Print Page Size
+    - Print Number of Tables
 
 ## References
 
