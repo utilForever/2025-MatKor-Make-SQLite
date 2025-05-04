@@ -6,12 +6,8 @@
 
 - Week 0 (3/27) [[Lecture]](./1%20-%20Lecture/250327%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%200.pdf)
   - Introduction
-- Week 1 (3/27)
-  - C++ Key Features Summary, Part 1
-    - C++11
-    - C++14
-    - C++17
-  - Assignment #1
+- Week 1 (5/8)
+  - Make a simple SQLite using C++, Part 1
     - Print Page Size
     - Print Number of Tables
 
