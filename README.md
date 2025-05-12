@@ -10,6 +10,10 @@
   - Make a simple SQLite using C++, Part 1
     - Print Page Size
     - Print Number of Tables
+- Week 2 (5/15)
+  - Make a simple SQLite using C++, Part 2
+    - Count Rows in a Table
+    - Read Data from a Single Column
 
 ## References
 
