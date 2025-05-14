@@ -10,10 +10,11 @@
   - Make a simple SQLite using C++, Part 1
     - Print Page Size
     - Print Number of Tables
-- Week 2 (5/15)
+- Week 2 (5/15) [[Base Code]](./2%20-%20Code/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/0%20-%20Base%20Code/) [[Example Code - "Count Rows in a Table"]](./2%20-%20Code/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/1%20-%20Count%20Rows%20in%20a%20Table/)
   - Make a simple SQLite using C++, Part 2
     - Count Rows in a Table
-    - Read Data from a Single Column
+    - Assignment #1
+      - Read Data from a Single Column
 
 ## References
 
