@@ -14,7 +14,7 @@
   - Make a simple SQLite using C++, Part 2
     - Count Rows in a Table
     - Assignment #1
-      - Read Data from a Single Column
+      - Read Data from a Single Column [[Base Code]](./3%20-%20Assignment/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/)
 
 ## References
 
