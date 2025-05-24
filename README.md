@@ -6,15 +6,15 @@
 
 - Week 0 (3/27) [[Lecture]](./1%20-%20Lecture/250327%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%200.pdf)
   - Introduction
-- Week 1 (5/8) [[Base Code]](./2%20-%20Code/250508%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%201/) [[Example Code - "Print Page Size"]](./2%20-%20Code/250508%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%201/1%20-%20Print%20Page%20Size/) [[Example Code - "Print Number of Tables"]](./2%20-%20Code/250508%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%201/2%20-%20Print%20Number%20of%20Tables/)
+- Week 1 (5/8) [[Base Code]](./2%20-%20Code/250508%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%201/) [[Example Code - "Print page size"]](./2%20-%20Code/250508%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%201/1%20-%20Print%20Page%20Size/) [[Example Code - "Print number of tables"]](./2%20-%20Code/250508%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%201/2%20-%20Print%20Number%20of%20Tables/)
   - Make a simple SQLite using C++, Part 1
-    - Print Page Size
-    - Print Number of Tables
+    - Print page size
+    - Print number of tables
 - Week 2 (5/15) [[Base Code]](./2%20-%20Code/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/0%20-%20Base%20Code/) [[Example Code - "Count Rows in a Table"]](./2%20-%20Code/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/1%20-%20Count%20Rows%20in%20a%20Table/) [[Assignment]](./3%20-%20Assignment/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202,%20Assignment%201.pdf)
   - Make a simple SQLite using C++, Part 2
-    - Count Rows in a Table
+    - Count rows in a table
     - Assignment #1
-      - Read Data from a Single Column [[Base Code]](./3%20-%20Assignment/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/)
+      - Read data from a single column [[Base Code]](./3%20-%20Assignment/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/)
 - Week 3 (5/22)
   - No Lecture (IPSELENTI)
 
