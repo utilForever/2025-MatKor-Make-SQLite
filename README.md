@@ -10,7 +10,7 @@
   - Make a simple SQLite using C++, Part 1
     - Print page size
     - Print number of tables
-- Week 2 (5/15) [[Example code]](./2%20-%20Code/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/) [[Assignment]](./3%20-%20Assignment/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/)
+- Week 2 (5/15) [[Example code]](./2%20-%20Code/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/) [[Assignment]](./3%20-%20Assignment/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/) [[Solution]](./4%20-%20Solution/250515%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%202/)
   - Make a simple SQLite using C++, Part 2
     - Print table names
     - Assignment #1
