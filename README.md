@@ -17,6 +17,11 @@
       - Count rows in a table
 - Week 3 (5/22)
   - No Lecture (IPSELENTI)
+- Week 4 (5/29)
+  - Make a simple SQLite using C++, Part 3
+    - Read data from a single column
+    - Assignment #2
+      - Read data from multiple columns
 
 ## References
 
