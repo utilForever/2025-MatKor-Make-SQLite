@@ -17,7 +17,7 @@
       - Count rows in a table
 - Week 3 (5/22)
   - No Lecture (IPSELENTI)
-- Week 4 (5/29)
+- Week 4 (5/29) [[Example code]](./2%20-%20Code/250529%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%204/)
   - Make a simple SQLite using C++, Part 3
     - Read data from a single column
     - Assignment #2
