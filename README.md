@@ -22,6 +22,7 @@
     - Read data from a single column
     - Assignment #2
       - Read data from multiple columns
+      - Filter data with a WHERE clause
 
 ## References
 
