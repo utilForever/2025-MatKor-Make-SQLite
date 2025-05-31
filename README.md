@@ -23,6 +23,11 @@
     - Assignment #2
       - Read data from multiple columns
       - Filter data with a WHERE clause
+- Week 5 (6/5)
+  - Make a simple SQLite using C++, Part 4
+    - Retrieve data using a full-table scan
+    - Assignment #3
+      - Retrieve data using an index
 
 ## References
 
