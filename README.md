@@ -23,7 +23,7 @@
     - Assignment #2
       - Read data from multiple columns
       - Filter data with a WHERE clause
-- Week 5 (6/5)
+- Week 5 (6/5) [[Example code]](./2%20-%20Code/250605%20-%20Make%20a%20Simple%20SQLite%20using%20C++,%20Week%205/)
   - Make a simple SQLite using C++, Part 4
     - Retrieve data using a full-table scan
     - Assignment #3
